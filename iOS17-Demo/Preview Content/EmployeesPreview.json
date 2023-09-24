@@ -1,0 +1,92 @@
+ [
+    {
+      "id": 1,
+      "first_name": "Rozamond",
+      "last_name": "Willbourne",
+      "email": "rwillbournee@home.pl",
+      "gender": "Female",
+      "department": "Training",
+      "avatar": "https://robohash.org/inventorecumfuga.png"
+    },
+    {
+      "id": 2,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@example.com",
+      "gender": "Male",
+      "department": "Sales",
+      "avatar": "https://robohash.org/johndoe.png"
+    },
+    {
+      "id": 3,
+      "first_name": "Alice",
+      "last_name": "Smith",
+      "email": "alicesmith@example.com",
+      "gender": "Female",
+      "department": "Marketing",
+      "avatar": "https://robohash.org/alicesmith.png"
+    },
+    {
+      "id": 4,
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "email": "michael.johnson@example.com",
+      "gender": "Male",
+      "department": "Finance",
+      "avatar": "https://robohash.org/michaeljohnson.png"
+    },
+    {
+      "id": 5,
+      "first_name": "Sarah",
+      "last_name": "Brown",
+      "email": "sarah.brown@example.com",
+      "gender": "Female",
+      "department": "HR",
+      "avatar": "https://robohash.org/sarahbrown.png"
+    },
+    {
+      "id": 6,
+      "first_name": "David",
+      "last_name": "Williams",
+      "email": "david.williams@example.com",
+      "gender": "Male",
+      "department": "Operations",
+      "avatar": "https://robohash.org/davidwilliams.png"
+    },
+    {
+      "id": 7,
+      "first_name": "Sophia",
+      "last_name": "Martin",
+      "email": "sophia.martin@example.com",
+      "gender": "Female",
+      "department": "IT",
+      "avatar": "https://robohash.org/sophiamartin.png"
+    },
+    {
+      "id": 8,
+      "first_name": "William",
+      "last_name": "Anderson",
+      "email": "william.anderson@example.com",
+      "gender": "Male",
+      "department": "Sales",
+      "avatar": "https://robohash.org/williamanderson.png"
+    },
+    {
+      "id": 9,
+      "first_name": "Olivia",
+      "last_name": "Clark",
+      "email": "olivia.clark@example.com",
+      "gender": "Female",
+      "department": "HR",
+      "avatar": "https://robohash.org/oliviaclark.png"
+    },
+    {
+      "id": 10,
+      "first_name": "James",
+      "last_name": "Miller",
+      "email": "james.miller@example.com",
+      "gender": "Male",
+      "department": "Operations",
+      "avatar": "https://robohash.org/jamesmiller.png"
+    }
+  ]
